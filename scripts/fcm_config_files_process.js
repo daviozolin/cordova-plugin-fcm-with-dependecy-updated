@@ -27,7 +27,7 @@ var PLATFORM = {
     IOS: {
         dest: [
             IOS_DIR + '/' + name + '/Resources/GoogleService-Info.plist',
-            IOS_DIR + '/' + name + '/Resources/Resources/GoogleService-Info.plist'
+            // IOS_DIR + '/' + name + '/Resources/Resources/GoogleService-Info.plist'
         ],
         src: [
             'GoogleService-Info.plist',
